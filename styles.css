@@ -1,7 +1,7 @@
 img{
     width: 300px;
     float:left;
-    border: solid 3px lightsalmon;
+    border: dotted 15px lightsalmon;
     border-radius: 7px;
     margin-right: double 15px;
     margin:15px;
@@ -119,7 +119,7 @@ ul{
 
 @media(max-width:120px){
     #container{
-        width:800px;
+        width:100px;
     }
 }
 
